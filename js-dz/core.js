@@ -88,20 +88,20 @@
 // //     alert("you are not kyrgyz");
 // // }
 
-let summ = 5+5
-console.log(summ)
+// let summ = 5+5
+// console.log(summ)
 
-let diff = 6754958-48549
-console.log(diff)
+// let diff = 6754958-48549
+// console.log(diff)
 
-let perimetrOfMuTable = 60+60+50+50
-console.log("perimetr Of My Table " + perimetrOfMuTable)
+// let perimetrOfMuTable = 60+60+50+50
+// console.log("perimetr Of My Table " + perimetrOfMuTable)
 
-let multiplication = 7859*866
-console.log(multiplication)
+// let multiplication = 7859*866
+// console.log(multiplication)
 
-let division = 9759/866
-console.log(division)
+// let division = 9759/866
+// console.log(division)
 
 
 
@@ -109,3 +109,18 @@ let x = 10;
 let y = 20;
 let z = x + y;
 console.log(z);
+
+
+// console.log(100 - "20") 
+// console.log(77056 + "3113" - 4) 
+// console.log("23" * 7 * "7") 
+// console.log(67 / "4" - 44) 
+// console.log(9870 % 2) 
+// console.log(100-"20") 
+// console.log(100-"20") 
+// console.log(100-"20") 
+// console.log(100-"20") 
+// console.log(100-"20") 
+// console.log(100-"20") 
+// console.log(100-"20") 
+
